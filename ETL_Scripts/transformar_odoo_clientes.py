@@ -6,7 +6,7 @@ import os
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Rutas a los archivos
-archivo_original = 'Contactos - Clientes/Virginia Roldán Priego - Contactos.xlsx'
+archivo_original = 'Contactos - Clientes/Contactos.xlsx'
 plantilla_odoo = 'Contactos - Clientes/plantilla_odoo.xlsx'
 archivo_transformado = 'Contactos - Clientes/archivo_transformado.xlsx'
 

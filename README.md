@@ -20,10 +20,18 @@ Scripts/
 - Pandas
 - OpenPyXL (pip install pandas openpyxl)
 
-🛠️ Uso
+## 🛠️ Uso
 
 Ejecuta el script desde la terminal:
 
 ```bash
 python transformar_odoo_productos.py
 ```
+
+El script leerá los archivos de la carpeta Productos/, transformará los datos y generará un nuevo archivo productos_transformados.xlsx.
+
+## 📋 Funcionalidades
+- ✅ Lee archivos Excel y extrae datos relevantes.
+- ✅ Mapea los datos según el formato requerido por Odoo.
+- ✅ Valida la presencia de campos obligatorios.
+- ✅ Guarda la salida en un nuevo archivo Excel.

@@ -6,7 +6,7 @@ Este repositorio contiene scripts en Python para la transformación de datos des
 
 ```bash
 Scripts/
-│── Transformaciones/
+│── ETL_Scripts_Odoo/
 │   ├── transformar_odoo_productos.py  # Script para transformar productos
 │   ├── productos_transformados.xlsx   # Salida del proceso
 │   ├── Productos/                     # Carpeta con archivos de entrada
